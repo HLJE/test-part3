@@ -1,0 +1,163 @@
+.header{
+    background: #5aeec2;
+}
+.logo-header img {
+    width: 65px;
+}
+
+.praimary-menu{
+  
+}
+.praimary-menu ul{
+    text-align: right;
+
+    margin-bottom: 0px; 
+}
+html{
+    scroll-behavior: smooth;
+}
+.praimary-menu ul li{
+    display: inline-block;
+    margin-left: -5px;
+}
+.praimary-menu ul li a {
+    display: block;
+    text-decoration: none;
+    color: #801a1a;
+    font-size: 20px;
+    padding: 10px 30px;
+    
+    border-right: 1px solid #346071;
+    line-height: 48px;
+    
+
+}
+.praimary-menu ul li a:hover{
+    background: white;
+}
+.banner{
+    background-image: url(https://i.ibb.co/qDqjk1L/bannerpic.jpg);
+    padding: 196px 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image h1 {
+    font-size: 30px;
+    color: #9e1e9ea8;
+    padding: 7px 83px;
+    margin-top: 14px;
+}
+    .image {
+        color: rgb(196, 111, 111);
+    }
+
+    .card span{
+        width: 20px;
+        color: teal;
+        margin: auto;
+    }
+    .card h1 {
+        color: rgb(64, 14, 14);
+        font-size: 24px;
+    }
+    .card p{
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Gentium Book Basic', serif;
+        font-family: 'Tangerine', cursive;
+        font-size-adjust: none;
+        font-size: 30px;
+    }
+    .service{
+        margin-top: 20px;
+    }
+    .card {
+        border-radius:10% ;
+        background: #c3b8b8;
+    }
+    .card:hover {
+        background: #2cac70;
+        transition: .5s;
+        transform:scaleY(1.2);
+    }
+    .about {
+        background: #c5c4c44d;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .about h1 {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .about p {
+        font-size: 30px;
+    }
+    .blog{
+        background: #bce3e14d;
+        margin-top: 4px;
+    }
+    .hbenki {
+        text-align: center;
+        margin-top: 20px;
+        padding: 26px 7px;
+        border-radius: 47%;
+        border: 1px solid rgba(104, 185, 131, 0.74);
+        width: 297px;
+        margin: auto;
+        color: #62838d;
+        font-family: 'Dancing Script', cursive;
+    }
+    .hbenki:hover{
+        background: #61b06633;
+        transform: scaleX(1.2);
+    }
+  img{
+      max-width: 157px;
+  }
+  .blog p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 23px;
+    
+  }
+  .row img:hover{
+      transition: .6s;
+      transform: scaleX(1.2);
+  }
+  .notice{
+      margin: 96px;
+  }
+  .notice h1 {
+    border-bottom: 1px solid #6fd175;
+    font-size: 32px;
+    color: #937fb6;
+}
+.notice p {
+    border-radius: 21%;
+    border-bottom: 1px solid #0eb447;
+    border-top: 1px solid #c57777;
+    transition: .5s;
+    color: #474821;
+}
+.notice p:hover{
+    background: #56e6b7;
+}
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Gentium Book Basic', serif;
+font-family: 'Tangerine', cursive; */
+
+.location{
+    margin-top: 2px;
+    background: #b6a27c47;
+}
+.footer{
+    background: #6c6352b0;;
+    padding: 10px 10px;
+
+}
+.footer p{
+    margin-bottom: 0px;
+}
+.footer a{
+    display: inline-block;
+    margin-left: 15px;
+    color: red;
+}
